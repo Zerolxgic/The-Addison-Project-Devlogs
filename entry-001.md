@@ -1,21 +1,19 @@
-## Entry 001 Starting Point
+# Entry 001 — Starting Point
 
-### What I’m working on
+I’ve been building something called Addison, along with a workflow I use around it called WBTSR.
 
-I’ve been working on a system called Addison and a workflow called WBTSR. It’s been a long process of figuring things out, building in phases, and trying to stay disciplined with how I approach things.
+A lot of this has come out of trial, correction, and a lot of time spent thinking about how I actually want to build. Not just what I want to make, but how I want to make it. I’ve spent a lot of time working in phases, slowing myself down, and trying to be more disciplined so the project grows in a way that’s real and honest instead of just exciting in the moment.
 
-### Where I’m at right now
+Right now, I’m at a point where I’m trying to take that more seriously. Not just building in my head, not just chasing ideas, but documenting what I’m doing and learning how to think more clearly in the open.
 
-Right now, I’m at a point where I’m trying to take things more seriously in terms of documenting and thinking clearly about what I’m doing instead of just working through things in my head.
+One thing I’ve been realizing more and more is that I don’t think the same way as most people around me. My mind naturally goes deeper into systems, structure, patterns, and the way things connect. That’s been valuable for the work, but it has also made me feel a little out of step with the people in my everyday environment.
 
-### What I’m thinking about
+That’s part of why I’m starting this dev log.
 
-One thing I’ve been realizing is that I don’t think the same way as most people around me. I tend to go deeper into systems and patterns, and it’s made it harder to connect with people in my environment.
+I’m doing it for myself first. I need a place to put these thoughts somewhere outside my own head. A place where the work, the process, and the thinking behind it can actually exist in a form I can come back to. If other people eventually find it and connect with it, that’s a bonus. But this is mainly me choosing to stop keeping all of it internal.
 
-### Why I’m starting this
+I still don’t fully know what this dev log is going to become. I don’t know if this is the right format, and I don’t know who, if anyone, will ever really read it.
 
-I’m starting this dev log mostly for myself. To get my thoughts out of my head and into something structured. If people find it later and it resonates, that’s a bonus.
+But I’m starting anyway.
 
-### What I’m unsure about
-
-I don’t really know what I’m doing with this yet. I don’t know if this is the right format or if anyone will ever read it. But I’m starting anyway.
+That feels like the important part.
