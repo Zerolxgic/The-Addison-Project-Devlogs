@@ -10,7 +10,7 @@ That matters because it says something about the kind of project Addison actuall
 
 There is also a TUI.
 
-That side of the project matters too, even if it is not the main thing I use day to day. To me, the TUI represents a broader cockpit idea — more of an operational surface, more of a command center. It is part of the same larger question Addison keeps circling around: what does the right interface for a system like this actually look like?
+That side of the project matters too, even if it is not the main thing I use day to day. To me, the TUI represents a broader cockpit idea more of an operational surface, more of a command center. It is part of the same larger question Addison keeps circling around: what does the right interface for a system like this actually look like?
 
 And then there is the shell and avatar side of it, which I have written about separately because that part matters to me for reasons that go beyond utility alone.
 
